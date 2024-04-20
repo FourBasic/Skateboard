@@ -28,3 +28,4 @@ It's whatever. Mocked up some quick logic for its first ride and I completely re
 
 
 ![Screenshot from 2024-04-20 18-14-55](https://github.com/FourBasic/Skateboard/assets/79863927/cff3b2d5-dbd4-4dfa-8d71-6276cf720a7b)
+![IMG20230826205501](https://github.com/FourBasic/Skateboard/assets/79863927/97be83a4-d07d-4605-994f-3c125c7593a9)
